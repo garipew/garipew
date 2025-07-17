@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm Gabriel, a computer science student passionate about cybersecurity.
+I'm Gabriel, a computer science student and cybersec enthusiast.
 
 - C, C++, Java, Python, Lua and Bash.
 
