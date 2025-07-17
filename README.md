@@ -1,10 +1,12 @@
 ## Hi there 👋
-I'm Gabriel Sá a computer science student passionate about cybersecurity.
+I'm Gabriel, a computer science student passionate about cybersecurity.
+
+- C, C++, Java, Python, Lua and Bash.
 
 ## 🔭 Currently working on
 - Capturing flags on [pwnable](https://github.com/garipew/pwnable).
 
-- Binary instrumentation on [pba](https://github.com/garipew/hacky/tree/master/pba).
+- Diving deep on [binaries](https://github.com/garipew/hacky/tree/master/pba).
 
 ## 📚 Currently reading
 - [Practical Binary Analysis](https://practicalbinaryanalysis.com/)
