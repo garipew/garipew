@@ -15,4 +15,4 @@ I'm Gabriel, a computer science student and cybersec enthusiast.
 - [Gabriel Sá](https://www.linkedin.com/in/garipew/) on linkedin
 
 
-<sub>I use vim btw</sub>
+<sub>vim btw</sub>
