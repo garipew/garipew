@@ -6,7 +6,7 @@ I'm Gabriel, a computer science student passionate about systems and cybersec en
 ## 🔭 Currently working on
 - Capturing flags on [pwnable](https://github.com/garipew/pwnable).
 
-- Diving deep on [binaries](https://github.com/garipew/hacky/tree/master/pba).
+- Diving deep on [binaries](https://github.com/garipew/pba).
 
 ## 📚 Currently reading
 - [Practical Binary Analysis](https://www.goodreads.com/book/show/39380358-practical-binary-analysis?from_search=true&from_srp=true&qid=Fa3DMsb0dQ&rank=1)
