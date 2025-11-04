@@ -5,7 +5,7 @@ I'm Gabriel, a computer science student passionate about cybersec and systems en
 - Springboot and Django.
 
 ## 🔭 Currently working on
-- Sending time capsules to the [future](https://github.com/garipew/celyt).
+- [arenas](https://github.com/garipew/snorkel).
 
 ## 📚 Currently reading
 - [How Linux Works](https://www.goodreads.com/book/show/93026462-how-linux-works?from_search=true&from_srp=true&qid=wN9OA7zqZC&rank=2)
