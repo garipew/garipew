@@ -6,6 +6,8 @@ I'm Gabriel, a computer science student passionate about cybersec and systems en
 
 ## 🔭 Currently working on
 - [arenas](https://github.com/garipew/snorkel).
+- [http](https://github.com/garipew/cerv2).
+
 
 ## 📚 Currently reading
 - [How Linux Works](https://www.goodreads.com/book/show/93026462-how-linux-works?from_search=true&from_srp=true&qid=wN9OA7zqZC&rank=2)
