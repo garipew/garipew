@@ -5,8 +5,8 @@ I'm Gabriel, a computer science student passionate about cybersec and systems en
 - Springboot and Django.
 
 ## 🔭 Currently working on
-- [arenas](https://github.com/garipew/snorkel).
 - [http](https://github.com/garipew/cerv2).
+- [emulator](https://github.com/garipew/cemu8).
 
 
 ## 📚 Currently reading
