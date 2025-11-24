@@ -1,8 +1,7 @@
 ## Hi there 👋
-I'm Gabriel, a computer science student passionate about cybersec and systems enthusiast, occasionally writing backend code.
+I'm Gabriel, a computer science student and systems enthusiast.
 
 - C, C++, Java, Python, Lua and Bash.
-- Springboot and Django.
 
 ## 🔭 Currently working on
 - [http](https://github.com/garipew/cerv2).
