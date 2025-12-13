@@ -6,7 +6,7 @@ I'm Gabriel, a computer science student and systems enthusiast.
 ## 🔭 Currently working on
 - [http](https://github.com/garipew/cerv2).
 - [emulator](https://github.com/garipew/cemu8).
-- [becoming a diver](https://github.com/garipew/snorkel).
+- [deeper C stuff](https://github.com/garipew/snorkel).
 
 
 ## 📚 Currently reading
