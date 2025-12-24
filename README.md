@@ -4,13 +4,12 @@ I'm Gabriel, a computer science student and systems enthusiast.
 - C, C++, Java, Python, Lua and Bash.
 
 ## 🔭 Currently working on
-- [http](https://github.com/garipew/cerv2).
-- [emulator](https://github.com/garipew/cemu8).
+- [tilemap editor](https://github.com/garipew/tilemgr).
 - [deeper C stuff](https://github.com/garipew/snorkel).
 
 
 ## 📚 Currently reading
-- [How Linux Works](https://www.goodreads.com/book/show/93026462-how-linux-works?from_search=true&from_srp=true&qid=wN9OA7zqZC&rank=2)
+- [Compilers](https://www.goodreads.com/en/book/show/703102.Compilers)
 
 ## 📫 Contact me!
 - [Gabriel Sá](https://www.linkedin.com/in/garipew/) on linkedin
