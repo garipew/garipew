@@ -1,7 +1,7 @@
 ## Hi there 👋
 I'm Gabriel, a computer science student and systems enthusiast.
 
-- C, C++, C#, Java, Python, Lua and Bash.
+- C, Zig, C++, C#, Java, Python, Lua and Bash.
 
 ## 🔭 Currently working on
 - [tilemap editor](https://github.com/garipew/tilemgr).
