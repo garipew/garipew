@@ -1,5 +1,5 @@
 ## Hello! I'm Gabriel,
-A computer science student with hands-on experience across two distinct layers of computing: backend web systems and low-level systems programming. On the web side, builds real-time collaborative applications and REST APIs in C#. On the systems side, works directly with Linux internals, writing memory allocators and coroutine schedulers in C.
+A computer science student with hands-on experience across two distinct layers of computing: backend web systems and low-level systems programming.
 
 - Systems: [C](https://github.com/garipew/snorkel)
 - Back-end: [C#](https://github.com/garipew/tilemgr)
