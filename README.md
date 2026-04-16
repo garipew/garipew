@@ -19,8 +19,6 @@ A computer science student focused on systems programming and backend engineerin
 ## 📚 Currently reading
 - [Compilers](https://www.goodreads.com/en/book/show/703102.Compilers)
 
-    > The dragon book
-
 ## 📫 Contact me!
 - [Gabriel Sá](https://www.linkedin.com/in/garipew/) on linkedin
 
