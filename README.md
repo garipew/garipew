@@ -1,17 +1,24 @@
 ## Hello! I'm Gabriel,
-A computer science student with hands-on experience across two distinct layers of computing: backend web systems and low-level systems programming.
+A computer science student focused on systems programming and backend engineering.
 
-- Systems: [C](https://github.com/garipew/snorkel)
-- Back-end: [C#](https://github.com/garipew/tilemgr)
-- Scripting: [Lua](https://github.com/garipew/mich)
+- Systems: [Allocators and coroutines](https://github.com/garipew/snorkel)
+- Back-end: [Shared state and real-time sync with WebSockets](https://github.com/garipew/tilemgr)
+- Scripting: [TUI menu builder](https://github.com/garipew/mich)
+
+---
 
 ## 🔭 Currently working on
-- [tilemap editor](https://github.com/garipew/tilemgr).
-- [deeper C stuff](https://github.com/garipew/snorkel).
+- [tilemgr](https://github.com/garipew/tilemgr): a real-time collaborative tilemap editor for the browser, built with ASP.NET Core.
+- [snorkel](https://github.com/garipew/snorkel): low-level experiments in C (with a healthy usage of x86_64 asm), including a custom allocator and coroutine scheduler.
 
+---
 
 ## 📚 Currently reading
 - [Compilers](https://www.goodreads.com/en/book/show/703102.Compilers)
 
+---
+
 ## 📫 Contact me!
 - [Gabriel Sá](https://www.linkedin.com/in/garipew/) on linkedin
+
+<sub>vim btw</sub>
