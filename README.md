@@ -12,7 +12,7 @@ A computer science student focused on systems programming and backend engineerin
 
     > built with **C#, ASP.NET Core**.
 
-- [snorkel](https://github.com/garipew/snorkel): low-level experiments, including a custom allocator and coroutine scheduler.
+- [snorkel](https://github.com/garipew/snorkel):  A collection of low-level systems experiments in C, focused on implementing core primitives such as memory allocators, coroutines and thread pools.
 
     > built with **C, x86_64 asm**.
 
