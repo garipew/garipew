@@ -16,9 +16,6 @@ A computer science student focused on systems programming and backend engineerin
 
     > built with **C, x86_64 asm**.
 
-## 📚 Currently reading
-- [Compilers](https://www.goodreads.com/en/book/show/703102.Compilers)
-
 ## 📫 Contact me!
 - [Gabriel Sá](https://www.linkedin.com/in/garipew/) on linkedin
 
