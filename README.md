@@ -7,10 +7,15 @@ A computer science student focused on systems programming and backend engineerin
 - Back-end: [Shared state and real-time sync with WebSockets](https://github.com/garipew/tilemgr)
 - Scripting: [TUI menu builder](https://github.com/garipew/mich)
 
-## 🔭 Currently working on
+## Highlights
 - [tilemgr](https://github.com/garipew/tilemgr):  A real-time collaborative tilemap editor built to explore distributed state management on the web.
 
-    > built with **C#, ASP.NET Core**.
+    > built with **C#, .NET Core, ASP.NET Core, EF Core, PostgreSQL and Docker**.
+
+## 🔭 Currently working on
+- [dragon](https://github.com/garipew/dragon): An aggregation of notes from the Dragon book
+
+    > built with **Zig, and occasional C**.
 
 - [snorkel](https://github.com/garipew/snorkel):  A collection of low-level systems experiments in C, focused on implementing core primitives such as memory allocators, coroutines and thread pools.
 
