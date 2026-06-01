@@ -1,6 +1,8 @@
 ## Hello! I'm Gabriel,
 A computer science student focused on systems programming and backend engineering.
 
+> Exploring systems by building systems.
+
 ---
 
 - Systems: [Allocators and coroutines](https://github.com/garipew/snorkel)
@@ -15,7 +17,7 @@ A computer science student focused on systems programming and backend engineerin
 ## 🔭 Currently working on
 - [dragon](https://github.com/garipew/dragon): An aggregation of notes from the Dragon book
 
-    > built with **Zig, and occasional C**.
+    > built with **Zig, C**.
 
 - [snorkel](https://github.com/garipew/snorkel):  A collection of low-level systems experiments in C, focused on implementing core primitives such as memory allocators, coroutines and thread pools.
 
