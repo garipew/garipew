@@ -14,14 +14,18 @@ A computer science student focused on systems programming and backend engineerin
 
     > built with **C#, .NET Core, ASP.NET Core, EF Core, PostgreSQL and Docker**.
 
+- [snorkel](https://github.com/garipew/snorkel):  A collection of low-level systems experiments in C, focused on implementing core primitives such as memory allocators, coroutines and thread pools.
+
+    > built with **C, x86_64 asm**.
+
 ## 🔭 Currently working on
 - [dragon](https://github.com/garipew/dragon): An aggregation of notes from the Dragon book
 
     > built with **Zig, C**.
 
-- [snorkel](https://github.com/garipew/snorkel):  A collection of low-level systems experiments in C, focused on implementing core primitives such as memory allocators, coroutines and thread pools.
+- [pandora](https://github.com/garipew/pandora): A book cataloguer webapp
 
-    > built with **C, x86_64 asm**.
+    > built with **ASP.NET Core's API Controller, EF Core, PostgreSQL and Docker**.
 
 ## 📫 Contact me!
 - [Gabriel Sá](https://www.linkedin.com/in/garipew/) on linkedin
