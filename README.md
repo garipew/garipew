@@ -1,6 +1,6 @@
 # About me
 
-A computer science student that likes to go **deep** and that don't forget to go _wide_.
+Hello, I'm Gabriel! I'm a computer science student that likes to go **deep** without forgetting to go _wide_.
 
 <div align="center">
 <img width="300px" height="300px" alt="I am infinite" src="assets/infinite.png"/>
