@@ -10,7 +10,7 @@ Hello, I'm Gabriel! I'm a computer science student that likes to go **deep** wit
 
 **Web**
 
-![cs](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white) ![dotnet](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) ![postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![sqlite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white) ![jwt](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white) ![js](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![html](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![css](https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white)
+![cs](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white) ![dotnet](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) ![postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![sqlite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white) ![jwt](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white) ![html](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![css](https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white) ![js](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![ts](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
 **Systems**
 
@@ -35,7 +35,7 @@ Hello, I'm Gabriel! I'm a computer science student that likes to go **deep** wit
 
 | Project Name |            Description               | Stack |
 |--------------|--------------------------------------|-------|
-| [pandora](https://github.com/garipew/pandora) | A social book cataloging web app. A study on software architecture, CI and software testing. | `C#`, `.NET Core`, `ASP.NET Core`, `EntityFramework Core`, `xUnit`, `Docker`, `Github Actions` |
+| [pandora](https://github.com/garipew/pandora) | A social book cataloging web app. A study on software architecture, CI and software testing. | `ASP.NET Core`, `EntityFramework Core`, `xUnit`, `Docker`, `Github Actions`, `TypeScript`, `Angular` |
 | [snorkel](https://github.com/garipew/snorkel) | A collection of `stb-headers` that implements low-level primitives. Includes `Arena Allocator`, `Coroutine` and `Thread Pool`. |   `C`, `x86_64 Assembly`   |
 | [tilemgr](https://github.com/garipew/tilemgr) | A real-time collaborative tilemap editor built to explore distributed state management on the web. | `C#`, `.NET Core`, `ASP.NET Core`, `EF Core`, `Docker`, `PostgreSQL`, `WebSockets` |
 
